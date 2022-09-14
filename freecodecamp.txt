@@ -1,0 +1,83 @@
+** start of undefined **
+
+<html>
+
+<head>
+  <title></title>
+  <link rel="stylesheet" href="styles.css">
+<style> 
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#header{
+  align-items: center;
+}
+
+.intro {
+  text-align:center;
+}
+
+.popularity {
+   text-align:center;
+}
+
+.introtext{
+  font-size:20px;
+}
+
+.text_popularity{
+   font-size:20px;
+}
+</style>
+</head>
+
+<header id="header"></header>
+  <main id="main">
+
+  <div id="img-div">
+    <div id="img-caption">JavaScript
+      <img id="image" src="https://miro.medium.com/1*JTVWHBtzlA9P6iKMxCF2yQ.png" alt="Java Script">
+    </div>
+  </div>
+
+  <h1 id="title">About JavaScript</h1>
+
+<ul id="tribute-info">
+  <li><a id="tribute-link" href="https://ru.wikipedia.org/wiki/JavaScript#JavaScript" target="_blank">Introduction</a> in history </li>
+  <li><a id="tribute-link" href="https://ru.wikipedia.org/wiki/JavaScript#Популярность" target="_blank">Popularity</a> of JavaScript</li>
+  <li><a id="tribute-link" href="https://ru.wikipedia.org/wiki/JavaScript#Семантика_и_синтаксис" target="_blank">Language</a> semantics</li>
+  </ul>
+  <div class="introtojs">
+  <h3 class="intro">Введение в JavaScript</h3> 
+  <p class="introtext">JavaScript (/ˈdʒɑːvɑːˌskrɪpt/; аббр. JS /ˈdʒeɪ.ɛs./) — мультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили. Является реализацией спецификации ECMAScript (стандарт ECMA-262[9]).
+
+JavaScript обычно используется как встраиваемый язык для программного доступа к объектам приложений. Наиболее широкое применение находит в браузерах как язык сценариев для придания интерактивности веб-страницам</p> 
+</div> 
+
+<div class="popularity_block">
+<h3 class="popularity">Popularuty</h3>
+<p class=text_popularity">В статье «The World’s Most Misunderstood Programming Language Has Become the World’s Most Popular Programming Language»[32] (с англ. — «Самый неправильно понятый язык программирования в мире стал самым популярным в мире языком программирования») Дуглас Крокфорд утверждает, что лидирующую позицию JavaScript занял в связи с развитием AJAX, поскольку браузер стал превалирующей системой доставки приложений. Он также констатирует растущую популярность JavaScript, то, что этот язык встраивается в приложения, отмечает значимость языка.
+
+Согласно TIOBE Index, базирующемуся на данных поисковых систем Google, MSN, Yahoo!, Википедия и YouTube, в апреле 2015 года JavaScript находился на 6-м месте (год назад — на 9-м)[33].
+
+По данным Black Duck Software[en][34], в разработке открытого программного обеспечения доля использования JavaScript росла. 36 % проектов, выпуски которых состоялись с августа 2008 по август 2009 года, включают JavaScript, наиболее часто используемый язык программирования с быстрорастущей популярностью. 80 % открытого программного обеспечения использует Си, C++, Java, Shell и JavaScript. При этом JavaScript — единственный из этих языков, чья доля использования увеличилась (более чем на 2 процента, если считать в строках кода)[35].
+
+JavaScript является самым популярным языком программирования, используемым для разработки веб-приложений на стороне клиента</p>
+  </div>
+
+
+
+</main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
